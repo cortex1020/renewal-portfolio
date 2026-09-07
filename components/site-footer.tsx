@@ -41,7 +41,7 @@ export function SiteFooter() {
               </p>
               {/* Aesthetic email block */}
               <a
-                href="mailto:sanaullahturab2003@gmail.com"
+                href="mailto:jackson2026andrew@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group mt-8 inline-flex items-center gap-3 rounded-full border border-primary/30 bg-primary/5 px-5 py-3 transition-all duration-300 hover:border-primary/70 hover:bg-primary/10 hover:shadow-[0_0_28px_-8px_var(--primary)]"
@@ -52,7 +52,7 @@ export function SiteFooter() {
                   <span className="relative inline-flex h-2 w-2 rounded-full bg-primary" />
                 </span>
                 <span className="font-mono text-sm tracking-tight text-foreground transition-colors group-hover:text-primary">
-                  sanaullahturab2003@gmail.com
+                  jackson2026andrew@gmail.com
                 </span>
                 <span
                   aria-hidden="true"
@@ -89,7 +89,7 @@ export function SiteFooter() {
             <div className="flex flex-col justify-between gap-6 md:col-span-3 md:items-end">
               <a
                 href="/resume.pdf"
-                download="Sanaullah_Turab_Resume.pdf"
+                download="AndrewJackson_Resume.pdf"
                 className="group inline-flex w-fit items-center gap-3 rounded-full border border-primary px-6 py-3 font-mono text-xs uppercase tracking-[0.2em] text-primary transition-all duration-300 hover:bg-primary hover:text-primary-foreground hover:shadow-[0_0_24px_-6px_var(--primary)]"
               >
                 Download resume
@@ -105,7 +105,7 @@ export function SiteFooter() {
         </Reveal>
 
         <div className="mt-20 flex flex-col justify-between gap-3 border-t border-border pt-6 font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground sm:flex-row">
-          <span>© 2026 Sanaullah Turab</span>
+          <span>© 2026 Andrew Jackson</span>
           <span>Designed & built by hand, no template</span>
           <a
             href="#top"

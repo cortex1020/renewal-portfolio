@@ -53,7 +53,7 @@ export const projects: Project[] = [
     tags: ["FastAPI", "Python", "Monte Carlo Simulation", "React"],
     image: "/images/racebox.png",
     year: "2026",
-    href: "https://github.com/Sanaullah-Turab/F1-Simulator",
+    href: "https://github.com/cortex1020/F1-Simulator",
   },
   {
     title: "Connect-4",
@@ -63,7 +63,7 @@ export const projects: Project[] = [
     tags: ["Python", "Pygame", "Minimax", "Alpha-Beta Pruning"],
     image: "/images/connect.jpeg",
     year: "2026",
-    href: "https://github.com/Sanaullah-Turab/connect4-ai",
+    href: "https://github.com/cortex1020/connect4-ai",
   },
   {
     title: "CodeConvo",
@@ -73,7 +73,7 @@ export const projects: Project[] = [
     tags: ["MongoDB", "Express", "React", "Node.js"],
     image: "/images/codeconvo.jpeg",
     year: "2025",
-    href: "https://github.com/Sanaullah-Turab/Web-Based-Discussion-Forum",
+    href: "https://github.com/cortex1020/Web-Based-Discussion-Forum",
   },
   {
     title: "AirCor",
@@ -83,7 +83,7 @@ export const projects: Project[] = [
     tags: ["Python", "Pandas", "Scikit-learn", "SciPy"],
     image: "/images/aircor.png",
     year: "2025",
-    href: "https://github.com/Sanaullah-Turab/global-lung-cancer-analysis",
+    href: "https://github.com/cortex1020/global-lung-cancer-analysis",
   },
   {
     title: "Zahoor Perfumes",
@@ -212,7 +212,7 @@ export const certifications = [
 // ─── Footer Socials ──────────────────────────────────────────────────────────
 
 export const socials = [
-  { label: "GitHub", href: "https://github.com/Sanaullah-Turab" },
-  { label: "LinkedIn", href: "https://www.linkedin.com/in/sanaullah-turab/" },
-  { label: "WhatsApp", href: "https://wa.me/923052871119" },
+  { label: "GitHub", href: "https://github.com/cortex1020" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/cortex1020" },
+  { label: "WhatsApp", href: "https://wa.me/12133153046" },
 ];

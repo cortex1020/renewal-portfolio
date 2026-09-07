@@ -65,7 +65,7 @@ export function About() {
             <figure className="relative">
               <ParallaxImage
                 src="/images/portrait.jpeg"
-                alt="Portrait of Sanaullah Turab"
+                alt="Portrait of Andrew Jackson"
                 width={800}
                 height={800}
                 range={["-10%", "10%"]}

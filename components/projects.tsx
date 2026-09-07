@@ -194,7 +194,7 @@ export function Projects() {
           <p className="mt-10 font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground">
             + 10 more on{" "}
             <a
-              href="https://github.com/sanaullah-turab"
+              href="https://github.com/cortex1020"
               target="_blank"
               rel="noopener noreferrer"
               className="text-foreground underline underline-offset-4 transition-colors hover:text-primary"

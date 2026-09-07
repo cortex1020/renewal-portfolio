@@ -49,7 +49,7 @@ function PortraitFrame({ className }: { className?: string }) {
         <div className="relative aspect-[4/5] overflow-hidden border border-border bg-card">
           <img
             src="/images/headshot.jpeg"
-            alt="Portrait of Sanaullah Turab"
+            alt="Portrait of Andrew Jackson"
             width={640}
             height={800}
             fetchPriority="high"
@@ -71,7 +71,7 @@ function PortraitFrame({ className }: { className?: string }) {
               className="inline-block h-1.5 w-1.5 rounded-full bg-primary shadow-[0_0_8px_0] shadow-primary/70"
             />
             <span className="font-mono text-[10px] uppercase tracking-[0.35em] text-foreground/90">
-              sanaullah
+              Andrew
             </span>
             <span
               aria-hidden="true"
@@ -149,7 +149,7 @@ export function Hero() {
 
         <div className="mb-10 flex flex-wrap items-center gap-x-6 gap-y-2 font-mono text-xs uppercase tracking-[0.25em] text-muted-foreground">
           <Reveal delay={0.9} y={12}>
-            <span>Sanaullah Turab</span>
+            <span>Andrew Jackson</span>
           </Reveal>
           <Reveal delay={1.0} y={12}>
             <span className="text-primary">Fullstack → AI/ML Engineer</span>

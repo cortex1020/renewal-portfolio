@@ -1,6 +1,6 @@
-# Sanaullah Turab — Portfolio
+# Andrew Jackson — Portfolio
 
-Personal portfolio website for **Sanaullah Turab**, a Fullstack → AI/ML Engineer. Built from scratch with a focus on performance, clean architecture, and premium micro-animations throughout.
+Personal portfolio website for **Andrew Jackson**, a Fullstack → AI/ML Engineer. Built from scratch with a focus on performance, clean architecture, and premium micro-animations throughout.
 
 ## Tech Stack
 
@@ -75,4 +75,4 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-© 2026 [Sanaullah Turab](https://github.com/Sanaullah-Turab). All rights reserved.
+© 2026 [Andrew Jackson](https://github.com/cortex1020). All rights reserved.

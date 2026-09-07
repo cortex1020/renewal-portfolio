@@ -16,9 +16,9 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Sanaullah Turab',
+  title: 'Andrew Jackson',
   description:
-    'Portfolio of Sanaullah Turab, a fullstack engineer turned AI/ML engineer. Building production systems, machine learning pipelines, and intelligent products.',
+    'Portfolio of Andrew Jackson, a fullstack engineer turned AI/ML engineer. Building production systems, machine learning pipelines, and intelligent products.',
   manifest: '/site.webmanifest',
 }
 
