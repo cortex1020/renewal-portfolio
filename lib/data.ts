@@ -14,6 +14,7 @@ export const stack = [
   "Python",
   "TensorFlow",
   "Kubernetes",
+  "Terraform",
   "Hugging Face",
   "React",
   "AWS SageMaker",

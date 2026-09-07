@@ -169,7 +169,7 @@ export function MobileMenu({ links }: { links: NavLink[] }) {
                   }}
                   className="px-6 pb-10 font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground"
                 >
-                  Fullstack → AI/ML Engineer
+                  Fullstack & AI/ML Engineer
                 </motion.div>
               </motion.div>
             )}

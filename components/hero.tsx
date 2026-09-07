@@ -152,10 +152,10 @@ export function Hero() {
             <span>Andrew Jackson</span>
           </Reveal>
           <Reveal delay={1.0} y={12}>
-            <span className="text-primary">Fullstack → AI/ML Engineer</span>
+            <span>Sr.</span><span className="text-primary">Fullstack & AI/ML Engineer</span>
           </Reveal>
           <Reveal delay={1.1} y={12}>
-            <span>Est. 2023</span>
+            <span>From 2017</span>
           </Reveal>
         </div>
 
@@ -195,7 +195,7 @@ export function Hero() {
                 <dt className="mb-1 uppercase tracking-[0.2em] text-muted-foreground">
                   Currently
                 </dt>
-                <dd>ML Engineer @ Flyrank AI</dd>
+                <dd>Fullstack & AI/ML Engineer @ Freelancer</dd>
               </div>
               <div>
                 <dt className="mb-1 uppercase tracking-[0.2em] text-muted-foreground">
@@ -207,7 +207,7 @@ export function Hero() {
                 <dt className="mb-1 uppercase tracking-[0.2em] text-muted-foreground">
                   Projects
                 </dt>
-                <dd className="text-primary">16 shipped</dd>
+                <dd className="text-primary">30+ shipped</dd>
               </div>
               <div>
                 <dt className="mb-1 uppercase tracking-[0.2em] text-muted-foreground">

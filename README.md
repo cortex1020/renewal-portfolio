@@ -1,6 +1,6 @@
 # Andrew Jackson — Portfolio
 
-Personal portfolio website for **Andrew Jackson**, a Fullstack → AI/ML Engineer. Built from scratch with a focus on performance, clean architecture, and premium micro-animations throughout.
+Personal portfolio website for **Andrew Jackson**, a Fullstack & AI/ML Engineer. Built from scratch with a focus on performance, clean architecture, and premium micro-animations throughout.
 
 ## Tech Stack
 

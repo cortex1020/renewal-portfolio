@@ -44,9 +44,9 @@ export function About() {
             <Reveal delay={0.35}>
               <dl className="mt-12 grid grid-cols-3 gap-6 border-t border-border pt-8">
                 {[
-                  ["3+", "Years engineering"],
-                  ["16", "Projects shipped"],
-                  ["9", "Certifications"],
+                  ["8+", "Years engineering"],
+                  ["30+", "Projects shipped"],
+                  ["12", "Certifications"],
                 ].map(([value, label]) => (
                   <div key={label}>
                     <dd className="text-4xl font-medium tracking-tight text-primary md:text-5xl">
@@ -72,7 +72,7 @@ export function About() {
               />
               <figcaption className="mt-3 flex justify-between font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">
                 <span>fig. 01 — the engineer</span>
-                <span className="text-primary">Islamabad</span>
+                <span className="text-primary"></span>
               </figcaption>
             </figure>
           </Reveal>
