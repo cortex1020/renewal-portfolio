@@ -214,6 +214,6 @@ export const certifications = [
 
 export const socials = [
   { label: "GitHub", href: "https://github.com/cortex1020" },
-  { label: "LinkedIn", href: "https://www.linkedin.com/in/cortex1020" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/andrejacks" },
   { label: "WhatsApp", href: "https://wa.me/12133153046" },
 ];

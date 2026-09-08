@@ -153,10 +153,7 @@ export function Hero() {
           </Reveal>
           <Reveal delay={1.0} y={12}>
             <span>Sr.</span><span className="text-primary">Fullstack & AI/ML Engineer</span>
-          </Reveal>
-          <Reveal delay={1.1} y={12}>
-            <span>From 2017</span>
-          </Reveal>
+          </Reveal> 
         </div>
 
         <h1 className="relative z-10 text-balance font-sans text-[13.5vw] font-medium leading-[0.95] tracking-tight sm:text-[11vw] lg:text-[8.5rem]">
@@ -201,7 +198,7 @@ export function Hero() {
                 <dt className="mb-1 uppercase tracking-[0.2em] text-muted-foreground">
                   Focus
                 </dt>
-                <dd>LLMs / MLOps / Product</dd>
+                <dd>Product / LLMs / MLOps</dd>
               </div>
               <div>
                 <dt className="mb-1 uppercase tracking-[0.2em] text-muted-foreground">
