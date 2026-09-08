@@ -91,7 +91,7 @@ export function SiteHeader() {
             <span className="absolute inline-flex size-full animate-ping rounded-full bg-primary opacity-60 motion-reduce:animate-none" />
             <span className="relative inline-flex size-1.5 rounded-full bg-primary" />
           </span>
-          <span>ISB, PK</span>
+          <span>PST, US</span>
           <span className="tabular-nums" suppressHydrationWarning>
             {time || "00:00:00"}
           </span>

@@ -21,7 +21,7 @@ Personal portfolio website for **Andrew Jackson**, a Fullstack & AI/ML Engineer.
 - **Slot-word hero** — Custom character-by-character reel animation that cycles through words with a scramble effect
 - **Cursor-tracking project preview** — Desktop project images follow the cursor with spring physics
 - **Smooth scrolling** — Lenis for buttery smooth native scroll, with anchor-link integration
-- **Live clock** — Real-time ISB time in the header
+- **Live clock** — Real-time Pacific Standard time in the header
 - **Reduced motion support** — All animations respect `prefers-reduced-motion`
 - **Server Components** — Static sections (About, Certifications, Footer) are Server Components; only interactive sections carry `"use client"`
 - **Grain overlay** — Subtle SVG noise texture for depth
