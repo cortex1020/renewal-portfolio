@@ -117,52 +117,52 @@ export const projects: Project[] = [
 
 export const roles = [
   {
-    period: "[Apr 2025 → May 2026]",
-    title: "Machine Learning Engineer",
-    company: "HV Vision",
+    period: "[2020 – 2021]",
+    title: "Machine Learning & Data Science",
+    company: "Orlando Health",
     description:
-      "Developed ML pipeline for hyperspectral imaging predictions. Engineered models for high-dimensional feature spaces while maintaining physics-based validity. Collaborated across diverse stakeholder groups including farmers, agronomists, hardware engineers, and executive leadership",
-    stack: ["Python", "Machine Learning", "AWS", "Hyperspectral Imaging", "Feature Engineering", "Model Selection"],
+      "Developed data and ML pipeline for ingesting massive healthcare datasets (financial and discharge records). Built predictive models for insurance, readmission, and clustering/segmentation analysis. Collaborated with multidisciplinary teams; prepared reports and presentations. Leveraged GCP compute engine for big data and model development; used PySpark for statistical analysis.",
+    stack: ["Data Visualization", "Healthcare", "TensorFlow", "Scikit-learn", "Google Cloud ML", "Pandas", "Python", "Spark", "SQL"],
   },
   {
-    period: "[Feb 2024 – Sep 2024]",
-    title: "Tech Leader & Senior Software Engineer",
-    company: "Yuga Labs",
+    period: "[2018 – 2025]",
+    title: "Software Engineer Instructor",
+    company: "Codecademy",
     description:
-      "Architected E2E Twitter bot for fraud detection on company brand impersonation; integrated Google ecosystem for legal team operations. Rearchitected backend infrastructure from key-value storage (Cloudflare Workers) to DynamoDB + S3 automated API. Built Web3 smart contract integrations enabling customer interactions with blockchain protocols.",
-    stack: ["C#", "ASP.NET", "Node.js", "PostgreSQL", "Amazon DynamoDB", "AWS", "React", "TypeScript", "Ethereum", "Web3.js", "Docker", "Jest", "E2E Testing", "Cypress", "OAuth 2", "Tailwind CSS", "API Integration"],
+      "Led in-depth courses on full-stack topics including Python, SQL, NoSQL, React, Redux, HTML, CSS, Go. Graded coursework and taught students scalable, well-architected code design. Mentored hundreds of students across diverse programming topics.",
+    stack: ["Python", "SQL", "MongoDB", "React", "Redux", "JavaScript", "Node.js", "Java", "NoSQL", "HTML", "CSS", "REST APIs", "Test-driven Development"],
   },
   {
-    period: "[Mar 2022 – Nov 2022]",
-    title: "Machine Learning & AI Expert",
-    company: "Celegence LLC",
+    period: "[2016 – 2018]",
+    title: "Senior Research Scientist, HPC Software Developer",
+    company: "Hexagon Manufacturing Intelligence",
     description:
-      "Identified client problems and proposed AI solutions with MVP demonstration. Architected end-to-end AI pipeline from data acquisition through production prediction. Set up MLOps infrastructure for client teams; developed question-answering systems for systematic document review. Built automated document inclusion/exclusion pipeline for document screening. Led agile weekly team meetings and positioned AI product for life science industry market entry.",
-    stack: ["Machine Learning", "AI", "Generative Pre-trained Transformers", "NLP", "C#", "Python 3", "PyTorch", "Language Models", "Docker", "MLOps"],
+      "Developed ML models replacing computationally heavy simulations for auto parts design and optimization. Engineered high-performance parallel linear system solver achieving 1000x speedup using sparse direct solvers and iterative methods (PCG, algebraic multigrid). Built sparse/dense C++ linear algebra library with scientific code optimization. Developed probabilistic uncertainty propagation analysis tool. Authored and published peer-reviewed paper on spring back phenomenon.",
+    stack: ["Python", "C++", "OpenMP", "MPI", "Machine Learning", "HPC", "Monte-Carlo Simulation", "Design of Experiments"],
   },
   {
-    period: "[Dec 2024 – Mar 2025]",
-    title: "Web Developer Intern",
-    company: "Securely Innovations",
+    period: "[2015 – 2016]",
+    title: "Software Engineer Intern",
+    company: "Starbucks",
     description:
-      "Led a three-person team to build CodeConvo, a full stack discussion forum, owning architecture through deployment. Directed JWT-based authentication and persistent storage for users and threaded discussions.",
-    stack: ["React", "Node.js", "SQLite", "JWT"],
+      "Built live KPI dashboard scraping metrics from Starbucks database and displaying daily changes to C-level executives. Created live sentiment dashboard streaming tweets, applying NLP for sentiment analysis, and computing daily averages to track public perception over time.",
+    stack: ["MongoDB", "Express.js", "Node.js", "React", "Python", "NLP", "JavaScript", "REST APIs"],
   },
   {
-    period: "[Feb 2024 – May 2024]",
-    title: "Web Developer Intern",
-    company: "Charisma Software",
+    period: "[2014 – 2015]",
+    title: "Research Scientist",
+    company: "Alstom Power",
     description:
-      "Built UI components alongside senior developers in a live commercial codebase, applying production-grade code review and performance optimization practices.",
-    stack: ["React", "JavaScript", "CSS"],
+      "Developed semi-analytical software tool for improving old hydraulic turbine performance and avoiding costly replacements. Built predictive tool identifying dangerous structural responses to loads and fluid dynamic forces. Designed and validated experimental setups. Authored documentation, design guidelines, and internal white papers.",
+    stack: ["MATLAB", "Python", "Finite Element Method", "ANSYS", "MSC Nastran"],
   },
   {
-    period: "[2020 →]",
-    title: "Full Stack Developer, Freelance",
-    company: "Fiverr",
+    period: "[2008 – 2013]",
+    title: "PhD Researcher",
+    company: "University California San Diego",
     description:
-      "Delivered end-to-end web applications for e-commerce, portfolio, and small business clients, building React frontends paired with Node.js backends and Shopify API storefronts, deployed to production on Vercel.",
-    stack: ["React", "Node.js", "Shopify API", "Vercel"],
+      "Developed mathematical models predicting complex nonlinear systems behavior (fluid-structure interaction, cardiovascular dynamics, weather forecasting). Built high-performance numerical software for solving nonlinear differential equations. Managed supercomputing cluster pipelines; processed and analyzed terabyte-scale results using OpenMP and MPI. Designed and performed experiments validating software predictions. Developed ML meta-models for forecasting without heavy simulations. Taught numerical methods, programming, mathematical modeling courses. Published results in journals and conferences.",
+    stack: ["C++", "Fortran", "Python", "Bash", "Linux", "OpenMP", "MPI", "Distributed Computing", "Statistical Analysis", "Signal Processing"],
   },
 ];
 
