@@ -183,7 +183,7 @@ export function Hero() {
         <div className="mt-12 grid gap-8 border-t border-border pt-8 md:grid-cols-12">
           <Reveal delay={0.6} className="md:col-span-5">
             <p className="max-w-md text-pretty leading-relaxed text-muted-foreground">
-              Started with full stack systems, APIs, databases, the stuff that ships. Now I'm deep in machine learning, training models and building pipelines that go from notebook to production. Same instinct either way: build things that actually work.
+              Results-driven Full Stack and AI/ML Engineer with extensive experience in machine learning and software development. Proicient in building scalable applications and optimizing models for high-dimensional data. Demonstrated ability to lead cross- functional teams and deliver innovative solutions, ensuring alignment with industry trends and client needs.
             </p>
           </Reveal>
           <Reveal delay={0.7} className="md:col-span-4">

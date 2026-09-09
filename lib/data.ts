@@ -117,28 +117,28 @@ export const projects: Project[] = [
 
 export const roles = [
   {
-    period: "[Jul 2026 →]",
-    title: "ML Engineering Intern",
-    company: "FlyRank AI",
-    description:
-      "Engineered preprocessing pipelines across multiple internal datasets, cutting model iteration time by 15%. Benchmarked candidate models against production criteria and partnered with a cross functional engineering team to integrate ML components into core systems.",
-    stack: ["Python", "Scikit-learn", "Pandas", "NumPy"],
-  },
-  {
-    period: "[Aug 2025 – Sep 2025]",
+    period: "[Apr 2025 → May 2026]",
     title: "Machine Learning Engineer",
-    company: "Arch Technologies",
+    company: "HV Vision",
     description:
-      "Optimized machine learning models across three data challenges, improving prediction accuracy by 8%. Overhauled the data preprocessing and evaluation workflow, cutting experimentation turnaround time by roughly 20%.",
-    stack: ["Python", "Scikit-learn", "Pandas"],
+      "Developed ML pipeline for hyperspectral imaging predictions. Engineered models for high-dimensional feature spaces while maintaining physics-based validity. Collaborated across diverse stakeholder groups including farmers, agronomists, hardware engineers, and executive leadership",
+    stack: ["Python", "Machine Learning", "AWS", "Hyperspectral Imaging", "Feature Engineering", "Model Selection"],
   },
   {
-    period: "[May 2025 – Jul 2025]",
-    title: "Frontend Developer Intern",
-    company: "DevelopersHub Corporation & YoungDev",
+    period: "[Feb 2024 – Sep 2024]",
+    title: "Tech Leader & Senior Software Engineer",
+    company: "Yuga Labs",
     description:
-      "Converted UI/UX designs into production-ready React components across two concurrent internships, integrating third-party APIs and improving page-load performance while ensuring cross-browser compatibility.",
-    stack: ["React.js", "JavaScript", "Tailwind CSS"],
+      "Architected E2E Twitter bot for fraud detection on company brand impersonation; integrated Google ecosystem for legal team operations. Rearchitected backend infrastructure from key-value storage (Cloudflare Workers) to DynamoDB + S3 automated API. Built Web3 smart contract integrations enabling customer interactions with blockchain protocols.",
+    stack: ["C#", "ASP.NET", "Node.js", "PostgreSQL", "Amazon DynamoDB", "AWS", "React", "TypeScript", "Ethereum", "Web3.js", "Docker", "Jest", "E2E Testing", "Cypress", "OAuth 2", "Tailwind CSS", "API Integration"],
+  },
+  {
+    period: "[Mar 2022 – Nov 2022]",
+    title: "Machine Learning & AI Expert",
+    company: "Celegence LLC",
+    description:
+      "Identified client problems and proposed AI solutions with MVP demonstration. Architected end-to-end AI pipeline from data acquisition through production prediction. Set up MLOps infrastructure for client teams; developed question-answering systems for systematic document review. Built automated document inclusion/exclusion pipeline for document screening. Led agile weekly team meetings and positioned AI product for life science industry market entry.",
+    stack: ["Machine Learning", "AI", "Generative Pre-trained Transformers", "NLP", "C#", "Python 3", "PyTorch", "Language Models", "Docker", "MLOps"],
   },
   {
     period: "[Dec 2024 – Mar 2025]",
@@ -170,19 +170,19 @@ export const roles = [
 
 export const certifications = [
   {
-    name: "Machine Learning Specialization",
-    issuer: "Stanford / DeepLearning.AI",
+    name: "Professional Engineer",
+    issuer: "PEng",
     year: "2024",
-    id: "ML-2024-8842",
+    id: "PE-2024-8842",
   },
   {
-    name: "Deep Learning Specialization",
-    issuer: "DeepLearning.AI",
+    name: "Google Cloud Professional ML Engineer",
+    issuer: "Google Cloud",
     year: "2024",
-    id: "DL-2024-3391",
+    id: "GCP-PMLE-4410",
   },
   {
-    name: "AWS Certified Machine Learning — Specialty",
+    name: "AWS Certified Machine Learning",
     issuer: "Amazon Web Services",
     year: "2025",
     id: "AWS-MLS-7205",
@@ -194,10 +194,10 @@ export const certifications = [
     id: "TF-2024-1187",
   },
   {
-    name: "Professional ML Engineer",
-    issuer: "Google Cloud",
+    name: "Azure Data Scientist Associate",
+    issuer: "Microsoft",
     year: "2025",
-    id: "GCP-PMLE-4410",
+    id: "AZ-2025-2110",
   },
   {
     name: "NLP Specialization",
@@ -219,7 +219,7 @@ export const certifications = [
   },
   {
     name: "Kubernetes Application Developer",
-    issuer: "CNCF",
+    issuer: "CKAD",
     year: "2023",
     id: "CKAD-2023-6634",
   },
