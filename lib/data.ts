@@ -117,6 +117,30 @@ export const projects: Project[] = [
 
 export const roles = [
   {
+    period: "2025.4 - 2026.7",
+    title: "Machine Learning Engineer",
+    company: "HV Vision",
+    description:
+      "Developed ML pipeline for hyperspectral imaging predictions. Engineered models for high-dimensional feature spaces while maintaining physics-based validity. Collaborated across diverse stakeholder groups including farmers, agronomists, hardware engineers, and executive leadership.",
+    stack: ["Python", "Machine Learning", "AWS", "Hyperspectral Imaging", "Feature Engineering", "Model Selection"],
+  },
+  {
+    period: "2024.2 - 2024.9",
+    title: "Tech Leader & Senior Software Engineer",
+    company: "Yuga Labs",
+    description:
+      "Architected E2E Twitter bot for fraud detection on company brand impersonation; integrated Google ecosystem for legal team operations. Rearchitected backend infrastructure from key-value storage (Cloudflare Workers) to DynamoDB + S3 automated API. Built Web3 smart contract integrations enabling customer interactions with blockchain protocols.",
+    stack: ["C#", "ASP.NET", "Node.js", "PostgreSQL", "Amazon DynamoDB", "AWS", "React", "TypeScript", "Ethereum", "Web3.js", "Docker", "Jest", "E2E Testing", "Cypress", "OAuth 2", "Tailwind CSS", "API Integration"],
+  },
+  {
+    period: "2022 Mar - 2022 Nov",
+    title: "Machine Learning & AI Expert",
+    company: "Celegence LLC",
+    description:
+      "Identified client problems and proposed AI solutions with MVP demonstration. Architected end-to-end AI pipeline from data acquisition through production prediction. Set up MLOps infrastructure for client teams; developed question-answering systems for systematic document review. Built automated document inclusion/exclusion pipeline for document screening. Led agile weekly team meetings and positioned AI product for life science industry market entry.",
+    stack: ["Machine Learning", "AI", "Generative Pre-trained Transformers", "NLP", "C#", "Python 3", "PyTorch", "Language Models", "Docker", "MLOps"],
+  },
+  {
     period: "[2020 – 2021]",
     title: "Machine Learning & Data Science",
     company: "Orlando Health",
