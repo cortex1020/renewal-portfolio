@@ -117,7 +117,31 @@ export const projects: Project[] = [
 
 export const roles = [
   {
-    period: "[2020 – 2021]",
+    period: "2025.4 - 2026.7",
+    title: "Machine Learning Engineer",
+    company: "HV Vision",
+    description:
+      "Developed ML pipeline for hyperspectral imaging predictions. Engineered models for high-dimensional feature spaces while maintaining physics-based validity. Collaborated across diverse stakeholder groups including farmers, agronomists, hardware engineers, and executive leadership.",
+    stack: ["Python", "Machine Learning", "AWS", "Hyperspectral Imaging", "Feature Engineering", "Model Selection"],
+  },
+  {
+    period: "2024.2 - 2024.9",
+    title: "Tech Leader & Senior Software Engineer",
+    company: "Yuga Labs",
+    description:
+      "Architected E2E Twitter bot for fraud detection on company brand impersonation; integrated Google ecosystem for legal team operations. Rearchitected backend infrastructure from key-value storage (Cloudflare Workers) to DynamoDB + S3 automated API. Built Web3 smart contract integrations enabling customer interactions with blockchain protocols.",
+    stack: ["C#", "ASP.NET", "Node.js", "PostgreSQL", "Amazon DynamoDB", "AWS", "React", "TypeScript", "Ethereum", "Web3.js", "Docker", "Jest", "E2E Testing", "Cypress", "OAuth 2", "Tailwind CSS", "API Integration"],
+  },
+  {
+    period: "2022.3 - 2022.11",
+    title: "Machine Learning & AI Expert",
+    company: "Celegence LLC",
+    description:
+      "Identified client problems and proposed AI solutions with MVP demonstration. Architected end-to-end AI pipeline from data acquisition through production prediction. Set up MLOps infrastructure for client teams; developed question-answering systems for systematic document review. Built automated document inclusion/exclusion pipeline for document screening. Led agile weekly team meetings and positioned AI product for life science industry market entry.",
+    stack: ["Machine Learning", "AI", "Generative Pre-trained Transformers", "NLP", "C#", "Python 3", "PyTorch", "Language Models", "Docker", "MLOps"],
+  },
+  {
+    period: "[2020.1 – 2021.6]",
     title: "Machine Learning & Data Science",
     company: "Orlando Health",
     description:
@@ -125,7 +149,7 @@ export const roles = [
     stack: ["Data Visualization", "Healthcare", "TensorFlow", "Scikit-learn", "Google Cloud ML", "Pandas", "Python", "Spark", "SQL"],
   },
   {
-    period: "[2018 – 2025]",
+    period: "[2018.6 – 2025.3]",
     title: "Software Engineer Instructor",
     company: "Codecademy",
     description:
@@ -133,7 +157,7 @@ export const roles = [
     stack: ["Python", "SQL", "MongoDB", "React", "Redux", "JavaScript", "Node.js", "Java", "NoSQL", "HTML", "CSS", "REST APIs", "Test-driven Development"],
   },
   {
-    period: "[2016 – 2018]",
+    period: "[2016.3 – 2018.3]",
     title: "Senior Research Scientist, HPC Software Developer",
     company: "Hexagon Manufacturing Intelligence",
     description:
@@ -141,7 +165,7 @@ export const roles = [
     stack: ["Python", "C++", "OpenMP", "MPI", "Machine Learning", "HPC", "Monte-Carlo Simulation", "Design of Experiments"],
   },
   {
-    period: "[2015 – 2016]",
+    period: "[2015.9 – 2016.2]",
     title: "Software Engineer Intern",
     company: "Starbucks",
     description:
@@ -149,7 +173,7 @@ export const roles = [
     stack: ["MongoDB", "Express.js", "Node.js", "React", "Python", "NLP", "JavaScript", "REST APIs"],
   },
   {
-    period: "[2014 – 2015]",
+    period: "[2014.2 – 2015.7]",
     title: "Research Scientist",
     company: "Alstom Power",
     description:
@@ -157,7 +181,7 @@ export const roles = [
     stack: ["MATLAB", "Python", "Finite Element Method", "ANSYS", "MSC Nastran"],
   },
   {
-    period: "[2008 – 2013]",
+    period: "[2008.3 – 2013.2]",
     title: "PhD Researcher",
     company: "University California San Diego",
     description:
