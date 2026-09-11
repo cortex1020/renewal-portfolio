@@ -133,7 +133,7 @@ export const roles = [
     stack: ["C#", "ASP.NET", "Node.js", "PostgreSQL", "Amazon DynamoDB", "AWS", "React", "TypeScript", "Ethereum", "Web3.js", "Docker", "Jest", "E2E Testing", "Cypress", "OAuth 2", "Tailwind CSS", "API Integration"],
   },
   {
-    period: "2022 Mar - 2022 Nov",
+    period: "2022.3 - 2022.11",
     title: "Machine Learning & AI Expert",
     company: "Celegence LLC",
     description:
@@ -141,7 +141,7 @@ export const roles = [
     stack: ["Machine Learning", "AI", "Generative Pre-trained Transformers", "NLP", "C#", "Python 3", "PyTorch", "Language Models", "Docker", "MLOps"],
   },
   {
-    period: "[2020 – 2021]",
+    period: "[2020.1 – 2021.6]",
     title: "Machine Learning & Data Science",
     company: "Orlando Health",
     description:
@@ -149,7 +149,7 @@ export const roles = [
     stack: ["Data Visualization", "Healthcare", "TensorFlow", "Scikit-learn", "Google Cloud ML", "Pandas", "Python", "Spark", "SQL"],
   },
   {
-    period: "[2018 – 2025]",
+    period: "[2018.6 – 2025.3]",
     title: "Software Engineer Instructor",
     company: "Codecademy",
     description:
@@ -157,7 +157,7 @@ export const roles = [
     stack: ["Python", "SQL", "MongoDB", "React", "Redux", "JavaScript", "Node.js", "Java", "NoSQL", "HTML", "CSS", "REST APIs", "Test-driven Development"],
   },
   {
-    period: "[2016 – 2018]",
+    period: "[2016.3 – 2018.3]",
     title: "Senior Research Scientist, HPC Software Developer",
     company: "Hexagon Manufacturing Intelligence",
     description:
@@ -165,7 +165,7 @@ export const roles = [
     stack: ["Python", "C++", "OpenMP", "MPI", "Machine Learning", "HPC", "Monte-Carlo Simulation", "Design of Experiments"],
   },
   {
-    period: "[2015 – 2016]",
+    period: "[2015.9 – 2016.2]",
     title: "Software Engineer Intern",
     company: "Starbucks",
     description:
@@ -173,7 +173,7 @@ export const roles = [
     stack: ["MongoDB", "Express.js", "Node.js", "React", "Python", "NLP", "JavaScript", "REST APIs"],
   },
   {
-    period: "[2014 – 2015]",
+    period: "[2014.2 – 2015.7]",
     title: "Research Scientist",
     company: "Alstom Power",
     description:
@@ -181,7 +181,7 @@ export const roles = [
     stack: ["MATLAB", "Python", "Finite Element Method", "ANSYS", "MSC Nastran"],
   },
   {
-    period: "[2008 – 2013]",
+    period: "[2008.3 – 2013.2]",
     title: "PhD Researcher",
     company: "University California San Diego",
     description:
